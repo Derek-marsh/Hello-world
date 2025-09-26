@@ -3,9 +3,9 @@ I am creating this to practice using github.
 
 ## Table of contents
 
-[PROJECT TITLE](#Project-Title)
-[DESCRIPTION](#Description)
-[ADDITIONAL INFORMATION](#Additional-Information)
+[PROJECT TITLE](#Project-Title)  
+[DESCRIPTION](#Description)  
+[ADDITIONAL INFORMATION](#Additional-Information)  
 
 ## Project Title
 *Hello World Sample - My First Repository*
