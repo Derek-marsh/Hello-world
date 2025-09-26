@@ -15,8 +15,8 @@ This is a sample repository introducing me to github.
 
 ## Additional Information
 
-**BOLD** text
-*Italics*
-***BoldI***
+**BOLD** text  
+*Italics*  
+***BoldI***  
 > Quote Information
 
